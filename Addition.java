@@ -7,4 +7,9 @@ class Addition{
      System.out.println(c);
    }
 
+   void doSub(){
+     int c = a - b;
+     System.out.println(c);
+   }
+
 }
