@@ -6,5 +6,10 @@ class Addition{
      int c = a+ b;
      System.out.println(c);
    }
+   
+   void doMul(){
+     int c = a * b;
+     System.out.println(c);
+   }
 
 }
